@@ -1,0 +1,7 @@
+name: ScoreboardFactionsUUID
+version: '${version}'
+main: com.zachfr.scoreboardfactionsuuid.ScoreboardFactionsUUID
+api-version: 1.18
+depend: [ Factions, InfiniteScoreboard ]
+authors: [ Zach_FR ]
+description: Infinite scoreboard addon for FactionsUUID (https://www.spigotmc.org/resources/factionsuuid.1035/)
